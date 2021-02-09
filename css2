@@ -2075,38 +2075,7 @@ body.p-achievements.p-profiles .l-footer .links a {
     opacity: 0.7;
   }
   
-  /* ачивки */
-  .b-achievement .c-about a.title {
-    font-size: 14px;
-    color:  rgba(var(--white-color), var(--hundred));
-  }
   
-  .b-achievement .c-about .percent {
-    color:  rgba(var(--bright-color), var(--hundred));
-  }
-  
-  .b-achievement .c-about .hint {
-    font-size: 12px;
-    font-weight: bold;
-    color:  rgba(var(--light-color), var(--hundred));
-    opacity: 1;
-  }
-  
-  .b-achievement .c-about .progress {
-    padding: 0;
-    background: rgba(var(--hover-bottoms-1), 0.8);
-    height: 7px;
-    border: 0.5px solid  rgba(var(--small-rating), var(--hundred));
-    overflow: hidden;
-    position: relative;
-    border-radius: 8px;
-    white-space: nowrap;
-    width: 100%;
-  }
-  
-  .b-achievement .c-about .progress .bar {
-    background: #578fbb;
-  }
   
   /* красное ерорные названия */
   .b-errors .subheadline {
