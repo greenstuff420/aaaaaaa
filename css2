@@ -1,8 +1,8 @@
 /*2104*/
-.l-footer:before {
+/*.l-footer:before 
+{
     content: 'greenstuff ♥';
-    content: 'greenstuff ♥';
-}
+}*/
 .b-club .name-logo .name {
     transition: 1s ease;
   }
